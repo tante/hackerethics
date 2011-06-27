@@ -1,3 +1,7 @@
 # Hacker ethics
 
 Zu Beginn war ein Blogpost, jetzt gucken wir mal ob das ein kurzes Ebook wird. Erstmal deutsch.
+
+Im Moment ist das ersteinmal der Versuch, aus einer Datenquelle (einigen ReST Dateien) unterschiedliche, nutzbare Outputs zu generieren.
+
+Im Moment plane ich mit pandoc.
