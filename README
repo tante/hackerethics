@@ -4,4 +4,6 @@ Zu Beginn war ein Blogpost, jetzt gucken wir mal ob das ein kurzes Ebook wird. E
 
 Im Moment ist das ersteinmal der Versuch, aus einer Datenquelle (einigen ReST Dateien) unterschiedliche, nutzbare Outputs zu generieren.
 
-Im Moment plane ich mit pandoc.
+Ich arbeite mit pandoc um die Endergebnisse zu generieren. Zumindest plane ich das.
+
+Sollte sich jemand berufen fühlen, Dinge korrekturlesen zu wollen oder können, dann nur zu! Geht den Text durch, verbessert Schwächen, tragt Euch in die CONTRIBUTORS ein und schickt mir nen Merge Request. 
